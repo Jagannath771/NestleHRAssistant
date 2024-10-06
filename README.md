@@ -1,5 +1,6 @@
 🏢 HR Policy Assistant
-A question-answering chatbot built using LangChain, OpenAI, and Gradio, designed to help users query Human Resources policy documents. The chatbot utilizes a PDF document of HR policies, processes it, and allows users to ask questions in natural language to get accurate answers./n
+A question-answering chatbot built using LangChain, OpenAI, and Gradio, designed to help users query Human Resources policy documents. The chatbot utilizes a PDF document of HR policies, processes it, and allows users to ask questions in natural language to get accurate answers.
+
 Link for the Project Demo:- https://huggingface.co/spaces/Jagannath771/Nestle-HR
 
 📖 Project Overview
