@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/hr-policy-assistant.git
+git clone https://github.com/Jagannath771/NestleHRAssistant.git
 cd hr-policy-assistant
 Create and activate a virtual environment (optional but recommended):
 
